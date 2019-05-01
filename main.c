@@ -9,7 +9,7 @@ int main(){
 
 do {
 
-	do {  printf ("please enter  data in DD.MM.YYYY format \n");
+	do {  printf ("please enter  day in DD.MM.YYYY format \n");
 
 	 printf ("please insert date\n");
 	 fflush(stdout);
